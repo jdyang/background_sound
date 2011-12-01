@@ -1,0 +1,243 @@
+{
+    "seconds_before": {
+        "message": " seconds ago"
+    },
+    "minutes_before": {
+        "message": " minutes ago"
+    },
+    "hours_before": {
+        "message": " hours ago"
+    },
+    "days_before": {
+        "message": " days ago"
+    },
+    "pagnav_prev": {
+        "message": "Prev"
+    },
+    "pagnav_next": {
+        "message": "Next"
+    },
+    "dlg_btn_ok": {
+        "message": "OK"
+    },
+    "already_ranked": {
+        "message": "You have already ranked ~~~"
+    },
+    "rank_op_fail": {
+        "message": "Unfortunatly, rank fail, please retry later ..."
+    },
+    "rank_op_error": {
+        "message": "Rank error, result: "
+    },
+    "rank_success": {
+        "message": "Rank success ~"
+    },
+    "add_fav_fail": {
+        "message": "Unfortunatly, add favourite fail, please retry later ..."
+    },
+    "add_fav_error": {
+        "message": "Add favourite error, result: "
+    },
+    "add_fav_success": {
+        "message": "Add favourite success ~"
+    },
+    "del_fav_fail": {
+        "message": "Unfortunatly, delete favourite fail, please retry later ..."
+    },
+    "del_fav_error": {
+        "message": "Delete favourite error, result: "
+    },
+    "del_fav_success": {
+        "message": "Delete favourite success ~"
+    },
+    "del_cmt_fail": {
+        "message": "Unfortunatly, delete comment fail, please retry later ..."
+    },
+    "del_cmt_error": {
+        "message": "Delete comment error, result: "
+    },
+    "del_cmt_success": {
+        "message": "Delete comment success ~"
+    },
+    "get_usrifo_fail": {
+        "message": "Unfortunatly, get user info fail, please retry later ..."
+    },
+    "get_usrifo_error": {
+        "message": "Get user info error, result: "
+    },
+    "usr_logout": {
+        "message": "logout"
+    },
+    "x_comments": {
+        "message": " comments"
+    },
+    "x_sites": {
+        "message": " sites"
+    },
+    "x_favourites": {
+        "message": " favourites"
+    },
+    "login_fail": {
+        "message": "Unfortunatly, login fail, please retry later ..."
+    },
+    "login_invalid_unamepwd": {
+        "message": "Login fail, wrong username or password."
+    },
+    "login_error": {
+        "message": "Login error, result: "
+    },
+    "login_clear": {
+        "message": "Reset"
+    },
+    "login_login": {
+        "message": "Login"
+    },
+    "login_cancel": {
+        "message": "Cancel"
+    },
+    "copy_share_cnt_succ": {
+        "message": "Copy share content success ~"
+    },
+    "does_not_sup_url": {
+        "message": "Can not comment this url ~"
+    },
+    "get_cmt_fail": {
+        "message": "Get comments fail, please contact administrator ..."
+    },
+    "get_site_fail": {
+        "message": "Get sites fail, please contact administrator ..."
+    },
+    "get_fav_fail": {
+        "message": "Get favourites fail, please contact administrator ..."
+    },
+    "anonymous_usr": {
+        "message": "anonymous"
+    },
+    "x_likes": {
+        "message": " likes"
+    },
+    "x_dislikes": {
+        "message": " dislikes"
+    },
+    "xp_favourites": {
+        "message": " favourites"
+    },
+    "add_favourite": {
+        "message": " favourites, click to add favourite"
+    },
+    "cancel_favourite": {
+        "message": " favourites, click to remove favourite"
+    },
+    "del_favourite": {
+        "message": "Remove from favourite"
+    },
+    "share_to_sina": {
+       "message": "Post to sina microblog"
+    },
+    "copy_share_cnt": {
+       "message": "Copy contents to clipboard"
+    },
+    "urlcmt_short": {
+        "message": "Urlcmt"
+    },
+    "come_from": {
+        "message": " From "
+    },
+    "nofity_login_1": {
+        "message": "You are not logged in, please click "
+    },
+    "nofity_login_2": {
+        "message": "[here]"
+    },
+    "nofity_login_3": {
+        "message": " to login ~~"
+    },
+    "delete": {
+        "message": "Delete"
+    },
+    "no_comments": {
+        "message": "Havn't any comments ~~"
+    },
+    "no_top_comments": {
+        "message": "No comments at all"
+    },
+    "x_comments": {
+        "message": " comments"
+    },
+    "no_sites": {
+        "message": "Havn't any sites ~~"
+    },
+    "no_favourites": {
+        "message": "Havn't any favourites ~~"
+    },
+    "comment_fail": {
+        "message": "Unfortunatly, comments fail, please retry later ..."
+    },
+    "comment_error": {
+        "message": "Comments error, result: "
+    },
+    "comment_success": {
+        "message": "Congratulations, comment success ~"
+    },
+    "click_to_write_cmt": {
+        "message": "Click here to edit some comments ~"
+    },
+    "prompt_to_login_1": {
+        "message": "You can use urlcmt account or Google account "
+    },
+    "prompt_to_login_2": {
+        "message": ", if you havn't any, please "
+    },
+    "prompt_to_login_3": {
+        "message": " ~"
+    },
+    "login": {
+        "message": "login"
+    },
+    "register": {
+        "message": "register"
+    },
+    "manifest_desc": {
+        "message": "Urlcmt, comment and annotate web pages"
+    },
+    "manifest_title": {
+        "message": "Urlcmt, comment and annotate web pages"
+    },
+    "tab_title_page_cmt": {
+        "message": "Comments"
+    },
+    "tab_title_my_cmt": {
+        "message": "Mime"
+    },
+    "tab_title_my_sites": {
+        "message": "Sites"
+    },
+    "tab_title_my_fav": {
+        "message": "Favourites"
+    },
+    "tab_title_top_cmt": {
+        "message": "Top Comments"
+    },
+    "submit_btn_text": {
+        "message": "Click here to post comments"
+    },
+    "login_dialog_title": {
+        "message": "Login to urlcmt ~"
+    },
+    "popmsg_dialog_title": {
+        "message": "Info."
+    },
+    "login_dialog_tips": {
+        "message": "Tips: you can directly use Google account to login ~"
+    },
+    "login_form_uname": {
+        "message": "Username: "
+    },
+    "login_form_passwd": {
+        "message": "Password: "
+    },
+    "comment_too_long": {
+        "message": "Comment content too long, should not longger than 400 bytes ~"
+    }
+}
+

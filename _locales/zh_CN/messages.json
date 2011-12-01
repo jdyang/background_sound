@@ -1,0 +1,243 @@
+{
+    "seconds_before": {
+        "message": " 秒钟前"
+    },
+    "minutes_before": {
+        "message": " 分钟前"
+    },
+    "hours_before": {
+        "message": " 小时前"
+    },
+    "days_before": {
+        "message": " 天前"
+    },
+    "pagnav_prev": {
+        "message": "上一页"
+    },
+    "pagnav_next": {
+        "message": "下一页"
+    },
+    "dlg_btn_ok": {
+        "message": "我知道了"
+    },
+    "already_ranked": {
+        "message": "你已经评价过了哦~~~"
+    },
+    "rank_op_fail": {
+        "message": "悲剧了，评价操作失败，请稍后再试……"
+    },
+    "rank_op_error": {
+        "message": "评价失败，返回值："
+    },
+    "rank_success": {
+        "message": "评价成功~"
+    },
+    "add_fav_fail": {
+        "message": "悲剧了，加入收藏失败，请稍后再试……"
+    },
+    "add_fav_error": {
+        "message": "加入收藏失败，返回值："
+    },
+    "add_fav_success": {
+        "message": "加入收藏成功~"
+    },
+    "del_fav_fail": {
+        "message": "悲剧了，取消收藏失败，请稍后再试……"
+    },
+    "del_fav_error": {
+        "message": "取消收藏失败，返回值："
+    },
+    "del_fav_success": {
+        "message": "取消收藏成功~"
+    },
+    "del_cmt_fail": {
+        "message": "悲剧了，删除评论失败，请稍后再试……"
+    },
+    "del_cmt_error": {
+        "message": "删除评论失败，返回值："
+    },
+    "del_cmt_success": {
+        "message": "删除评论成功~"
+    },
+    "get_usrifo_fail": {
+        "message": "悲剧了，获取用户信息失败，请稍后再试……"
+    },
+    "get_usrifo_error": {
+        "message": "获取用户信息失败，返回值："
+    },
+    "usr_logout": {
+        "message": "注销"
+    },
+    "x_comments": {
+        "message": " 条评论"
+    },
+    "x_sites": {
+        "message": " 个站点"
+    },
+    "x_favourites": {
+        "message": " 个收藏"
+    },
+    "login_fail": {
+        "message": "悲剧了，登陆失败，请稍后再试……"
+    },
+    "login_invalid_unamepwd": {
+        "message": "登陆失败……不是用户名不对，就是密码不对……"
+    },
+    "login_error": {
+        "message": "登录失败，返回值："
+    },
+    "login_clear": {
+        "message": "重填"
+    },
+    "login_login": {
+        "message": "登陆"
+    },
+    "login_cancel": {
+        "message": "容我再考虑考虑"
+    },
+    "copy_share_cnt_succ": {
+        "message": "复制分享内容成功~"
+    },
+    "does_not_sup_url": {
+        "message": "不支持对这个地址评论~"
+    },
+    "get_cmt_fail": {
+        "message": "获取评论失败，请联系网评管理猿……"
+    },
+    "get_site_fail": {
+        "message": "获取站点失败，请联系网评管理猿……"
+    },
+    "get_fav_fail": {
+        "message": "获取收藏失败，请联系网评管理猿……"
+    },
+    "anonymous_usr": {
+        "message": "匿名网友"
+    },
+    "x_likes": {
+        "message": " 人喜欢"
+    },
+    "x_dislikes": {
+        "message": " 人不喜欢"
+    },
+    "xp_favourites": {
+        "message": " 人收藏"
+    },
+    "add_favourite": {
+        "message": " 人收藏, 点击加入收藏"
+    },
+    "cancel_favourite": {
+        "message": " 人收藏, 点击取消收藏"
+    },
+    "del_favourite": {
+        "message": "删除收藏"
+    },
+    "share_to_sina": {
+       "message": "分享到新浪微博"
+    },
+    "copy_share_cnt": {
+       "message": "复制分享内容到剪切板"
+    },
+    "urlcmt_short": {
+        "message": "网评"
+    },
+    "come_from": {
+        "message": "来自 "
+    },
+    "nofity_login_1": {
+        "message": "你还没有登陆哦~点击 "
+    },
+    "nofity_login_2": {
+        "message": "[这里]"
+    },
+    "nofity_login_3": {
+        "message": " 登陆吧~~"
+    },
+    "delete": {
+        "message": "删除"
+    },
+    "no_comments": {
+        "message": "你还没有评论过任何页面哦~快说几句吧~~"
+    },
+    "no_top_comments": {
+        "message": "没有任何评论信息。"
+    },
+    "x_comments": {
+        "message": " 条评论"
+    },
+    "no_sites": {
+        "message": "你还没有评论过任何站点哦~先评论几个吧~~"
+    },
+    "no_favourites": {
+        "message": "你还没有任何收藏哦~赶紧添加几个吧~~"
+    },
+    "comment_fail": {
+        "message": "悲剧了，评论失败，请稍后重试……"
+    },
+    "comment_error": {
+        "message": "评论失败，返回值："
+    },
+    "comment_success": {
+        "message": "恭喜，评论成功！"
+    },
+    "click_to_write_cmt": {
+        "message": "点击这里编写您的评论～"
+    },
+    "prompt_to_login_1": {
+        "message": "你可以使用青豆网帐号或谷歌帐号 "
+    },
+    "prompt_to_login_2": {
+        "message": "，如果还没有青豆网帐号，请 "
+    },
+    "prompt_to_login_3": {
+        "message": " ~"
+    },
+    "login": {
+        "message": "登陆"
+    },
+    "register": {
+        "message": "注册"
+    },
+    "manifest_desc": {
+        "message": "网页评论，评论或标注网址的工具"
+    },
+    "manifest_title": {
+        "message": "网页评论 (urlcmt)，评论或标注网址的工具"
+    },
+    "tab_title_page_cmt": {
+        "message": "本页评论"
+    },
+    "tab_title_my_cmt": {
+        "message": "我的评论"
+    },
+    "tab_title_my_sites": {
+        "message": "我的站点"
+    },
+    "tab_title_my_fav": {
+        "message": "我的收藏"
+    },
+    "tab_title_top_cmt": {
+        "message": "评论排行"
+    },
+    "submit_btn_text": {
+        "message": "点击这里发表您的评论~"
+    },
+    "login_dialog_title": {
+        "message": "登陆到网页评论"
+    },
+    "popmsg_dialog_title": {
+        "message": "提示"
+    },
+    "login_dialog_tips": {
+        "message": "小提示：你可以用你的谷歌账号直接登陆哦~"
+    },
+    "login_form_uname": {
+        "message": "用户名: "
+    },
+    "login_form_passwd": {
+        "message": "密  码: "
+    },
+    "comment_too_long": {
+        "message": "评论内容太长了，最大不能超过400字节~"
+    }
+}
+
